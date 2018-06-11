@@ -1,1 +1,2 @@
-"# pyhton_learning" 
+##Python Learning##
+This repository is for learning purpose.
